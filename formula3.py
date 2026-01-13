@@ -9,5 +9,5 @@ def extract_urls(swagger_file):
         print(path)
  
 # Replace 'swagger.json' with the actual file name
-swagger_file = "swagger (1) (2).json"
+swagger_file = "swagger.json"
 extract_urls(swagger_file)
